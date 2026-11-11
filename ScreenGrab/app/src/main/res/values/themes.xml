@@ -1,0 +1,4 @@
+<resources>
+    <!-- Platform theme: no AppCompat/Material dependency needed -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

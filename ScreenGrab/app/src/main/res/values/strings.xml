@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ScreenGrab</string>
+    <string name="main_desc">Takes screenshots of any app using a floating button. Works fully offline; images are saved to Pictures/ScreenGrab.</string>
+    <string name="status_on">Status: running</string>
+    <string name="status_off">Status: stopped</string>
+    <string name="btn_start">Start floating button</string>
+    <string name="btn_stop">Stop</string>
+    <string name="save">Save</string>
+    <string name="crop">Crop</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="saved">Screenshot saved</string>
+    <string name="discarded">Screenshot deleted</string>
+    <string name="capture_failed">Capture failed</string>
+    <string name="perm_overlay">Allow "Display over other apps", then tap Start again</string>
+    <string name="perm_denied">Screen capture permission was denied</string>
+    <string name="notif_channel">Screenshot service</string>
+    <string name="notif_title">ScreenGrab is ready</string>
+    <string name="notif_text">Tap the floating button to capture</string>
+    <string name="notif_capture">Capture</string>
+    <string name="notif_stop">Stop</string>
+</resources>
